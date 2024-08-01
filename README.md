@@ -1,5 +1,5 @@
 Análise Exploratória de Dados de Logística(Loggi)
-1. Contexto
+1. Contexto:
 Projeto de Data Wrangling sobre logísticas da Startup Loggi, geração de visualizações e retirada de insights tendo como foco o Distrito Federal. Também tendo como objeto responder:
 
   Questão 1: A localização dos Hubs é eficiente?
